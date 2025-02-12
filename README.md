@@ -37,10 +37,9 @@
     </tr>
   </table>
 
-  <br><br>
-
   <!-- 두 번째 테이블 -->
   <h2>마케팅 퍼포먼스 및 분석</h2>
+  <h3> (참고자료: git - GPT답변폴더 - GPT o3 - 이커머스 AARRR에서 에이전트까지.pdf) </h3> 
   <table style="border-collapse: collapse; width: 100%;">
     <tr>
       <th style="border: 1px solid black; padding: 8px; text-align: left; font-family: '맑은 고딕', monospace; background-color: yellow;">
@@ -64,7 +63,9 @@
       <td style="border: 1px solid black; padding: 8px;"><a href="https://ssongblog.tistory.com/34">링크</a></td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 8px;">오늘의집 A/B 실험 플랫폼 구축기</td>
+      <td style="border: 1px solid black; padding: 8px;">오늘의집 A/B 실험 플랫폼 구축기 <br> 오늘의집 A/B 실험 플랫폼 구축 과정과 그 속에서 해결한 고민들<br> 
+(기술 블로그 임으로 추후에 다시 자세히 보세요. <br> 
+채용공고도 있음. 경력직이 대다수임)</td>
       <td style="border: 1px solid black; padding: 8px;">블로그 (읽어만 보셔요)</td>
       <td style="border: 1px solid black; padding: 8px;">
         <a href="https://www.bucketplace.com/post/2021-10-29-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-a-b-%EC%8B%A4%ED%97%98-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0/">링크</a>
