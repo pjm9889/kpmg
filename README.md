@@ -43,7 +43,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
         <td><a href="https://ssongblog.tistory.com/34">링크</a></td>
     </tr>
     <tr>
-        <td>오늘의집 A/B 실험 플랫폼 구축기</td>
+        <td>오늘의집 A/B 실험 플랫폼 구축기 <br>  오늘의집 A/B 실험 플랫폼 구축 과정과 그 속에서 해결한 고민들 <br> 
+(기술 블로그 임으로 추후에 다시 자세히 보세요. <br>
+채용공고도 있음. 경력직이 대다수임) </td>
         <td>블로그 (읽어만 보셔요)</td>
         <td><a href="https://www.bucketplace.com/post/2021-10-29-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-a-b-%EC%8B%A4%ED%97%98-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0/">링크</a></td>
     </tr>
