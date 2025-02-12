@@ -2,7 +2,6 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <title>테이블 스타일 적용</title>
 </head>
 <body>
 
